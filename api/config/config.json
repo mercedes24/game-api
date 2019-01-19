@@ -1,25 +1,25 @@
 {
   "development": {
     "username": "postgres",
-    "password": "5i5i5i5i",
-    "database": "gamesdb",
-    "host": "35.202.200.102",
+    "password": "sa",
+    "database": "basedatosreina",
+    "host": "104.197.6.40",
     "port": 5432,
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "5i5i5i5i",
-    "database": "gamesdb",
-    "host": "35.202.200.102",
+    "password": "sa",
+    "database": "basedatosreina",
+    "host": "104.197.6.40",
     "port": 5432,
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
-    "password": "5i5i5i5i",
-    "database": "gamesdb",
-    "host": "35.202.200.102",
+    "password": "sa",
+    "database": "basedatosreina",
+    "host": "104.197.6.40",
     "port": 5432,
     "dialect": "postgres"
   }
